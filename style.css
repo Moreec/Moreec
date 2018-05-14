@@ -446,11 +446,11 @@ li.dropdown.act a.w3_icons_act {
     padding: 50px 0;
 }
 div#testimonials {
-    background: url(../images/slide2.jpg) no-repeat 0px 0px;
+    background: url(../slide2.JPG) no-repeat 0px 0px;
     background-size: cover;
 }
 .agileinfo-dot1 {
-    background: url(../images/dott.png)repeat 0px 0px;
+    background: url(../dott.png)repeat 0px 0px;
     background-size: 5px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -518,7 +518,7 @@ p.date {
     text-align: center;
 }
 .test-left-img{
-	background: url(../images/banner.jpg) no-repeat 0px 0px;
+	background: url(../banner.JPG) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -535,7 +535,7 @@ p.date {
 
 /* book */
 .book {
-    background: url(../images/slide1.jpg) no-repeat 0px 0px;
+    background: url(../slide1.JPG) no-repeat 0px 0px;
     background-size: cover;
 }
 .book-background{
@@ -661,7 +661,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 ul li input[type="checkbox"]:checked+label span:first-child:before {
     content: "";
-    background: url(../images/tick.png)no-repeat;
+    background: url(../tick.png)no-repeat;
     position: absolute;
     left: 2px;
     top: 2px;
@@ -707,7 +707,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	position: relative;
 }   
 .banner-dott {
-    background: url(../images/dott.png)repeat 0px 0px;
+    background: url(../dott.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -715,7 +715,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
     -ms-background-size: 2px;
 }
 .banner-dott1 {
-    background: url(../images/dott.png)repeat 0px 0px;
+    background: url(../dott.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -811,7 +811,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .banner-top{
-    background: url(../images/slide1.jpg) no-repeat 0px 0px;
+    background: url(../slide1.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -820,7 +820,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	min-height:780px;
 }
 .w3layouts-banner-top1{
-	background: url(../images/slide2.jpg) no-repeat 0px 0px;
+	background: url(../slide2.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -829,7 +829,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	min-height:780px;
 }
 .w3layouts-banner-top2{
-	background: url(../images/slide3.jpg) no-repeat 0px 0px;
+	background: url(../slide3.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -838,7 +838,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	min-height:780px;
 }
 .w3layouts-banner-top3{
-	background: url(../images/slide4.jpg) no-repeat 0px 0px;
+	background: url(../slide4.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -918,16 +918,16 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
     text-decoration: none;
     height: 34px;
     width: 34px;
-    background: url(../images/left.png) no-repeat 0px 0px;
+    background: url(../left.png) no-repeat 0px 0px;
 }
 .callbacks_nav.next {
     left: auto;
-    background: url(../images/right.png) no-repeat 0px 0px;
+    background: url(../right.png) no-repeat 0px 0px;
     right: -62px;
 }
 .callbacks_nav.prev {
     left: auto;
-    background: url(../images/left.png) no-repeat 0px 0px;
+    background: url(../left.png) no-repeat 0px 0px;
     left: -58px;
 }
 #slider3-pager a {
