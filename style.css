@@ -518,7 +518,7 @@ p.date {
     text-align: center;
 }
 .test-left-img{
-	background: url(.banner.jpg) no-repeat 0px 0px;
+	background: url(.banner.JPG) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -661,7 +661,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 ul li input[type="checkbox"]:checked+label span:first-child:before {
     content: "";
-    background: url(../tick.png)no-repeat;
+    background: url(.tick.png)no-repeat;
     position: absolute;
     left: 2px;
     top: 2px;
@@ -1523,7 +1523,7 @@ i.fa.fa-book {
 .wthree_mail_pos input[type="submit"]{
 	outline: none;
     padding: 15px 0;
-    background: url(../images/6.png) no-repeat center center #146eb4;
+    background: url(.6.png) no-repeat center center #146eb4;
     width: 100%;
     border: none;
 }
