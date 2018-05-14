@@ -446,11 +446,11 @@ li.dropdown.act a.w3_icons_act {
     padding: 50px 0;
 }
 div#testimonials {
-    background: url(../slide2.JPG) no-repeat 0px 0px;
+    background: url(..slide2.JPG) no-repeat 0px 0px;
     background-size: cover;
 }
 .agileinfo-dot1 {
-    background: url(../dott.png)repeat 0px 0px;
+    background: url(..dott.png)repeat 0px 0px;
     background-size: 5px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -518,7 +518,7 @@ p.date {
     text-align: center;
 }
 .test-left-img{
-	background: url(../banner.JPG) no-repeat 0px 0px;
+	background: url(..banner.JPG) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -811,7 +811,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .banner-top{
-    background: url(../slide1.JPG) no-repeat 0px 0px;
+    background: url(..slide1.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -820,7 +820,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	min-height:780px;
 }
 .w3layouts-banner-top1{
-	background: url(../slide2.JPG) no-repeat 0px 0px;
+	background: url(..slide2.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -829,7 +829,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	min-height:780px;
 }
 .w3layouts-banner-top2{
-	background: url(../slide3.JPG) no-repeat 0px 0px;
+	background: url(..slide3.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -838,7 +838,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	min-height:780px;
 }
 .w3layouts-banner-top3{
-	background: url(../slide4.JPG) no-repeat 0px 0px;
+	background: url(..slide4.JPG) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
