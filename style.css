@@ -518,7 +518,7 @@ p.date {
     text-align: center;
 }
 .test-left-img{
-	background: url(..banner.JPG) no-repeat 0px 0px;
+	background: url(/banner.JPG) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -661,7 +661,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 ul li input[type="checkbox"]:checked+label span:first-child:before {
     content: "";
-    background: url(..tick.png)no-repeat;
+    background: url(/tick.png)no-repeat;
     position: absolute;
     left: 2px;
     top: 2px;
@@ -707,7 +707,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
 	position: relative;
 }   
 .banner-dott {
-    background: url('dott.png')repeat 0px 0px;
+    background: url(/dott.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -715,7 +715,7 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
     -ms-background-size: 2px;
 }
 .banner-dott1 {
-    background: url('dott.png')repeat 0px 0px;
+    background: url(/dott.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -918,16 +918,16 @@ ul li input[type="checkbox"]:checked+label span:first-child:before {
     text-decoration: none;
     height: 34px;
     width: 34px;
-    background: url(..left.png) no-repeat 0px 0px;
+    background: url(/left.png) no-repeat 0px 0px;
 }
 .callbacks_nav.next {
     left: auto;
-    background: url(..right.png) no-repeat 0px 0px;
+    background: url(/right.png) no-repeat 0px 0px;
     right: -62px;
 }
 .callbacks_nav.prev {
     left: auto;
-    background: url(..left.png) no-repeat 0px 0px;
+    background: url(/left.png) no-repeat 0px 0px;
     left: -58px;
 }
 #slider3-pager a {
@@ -1523,7 +1523,7 @@ i.fa.fa-book {
 .wthree_mail_pos input[type="submit"]{
 	outline: none;
     padding: 15px 0;
-    background: url(..6.png) no-repeat center center #146eb4;
+    background: url(/6.png) no-repeat center center #146eb4;
     width: 100%;
     border: none;
 }
@@ -1779,7 +1779,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
 	height: 40px;
 	border: none;
 	text-indent: 100%;
-	background: url(..arr.png) no-repeat 0px 0px;
+	background: url(/arr.png) no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 40px;
